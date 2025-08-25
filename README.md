@@ -1,4 +1,4 @@
-# osu-TimeConverter
+# Timezone Converter
 
 --------------------------------
 
@@ -7,7 +7,5 @@
 --------------------------------
 
 website for converting any timezone -> utc times 
-
-primarily for osu players because utc is the default time for tournament scheduling
 
 
