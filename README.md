@@ -2,7 +2,7 @@
 
 --------------------------------
 
-[Link to Website](https://mikechen04.github.io/osu-TimeConverter/)
+[Link to Website]([https://mikechen04.github.io/osu-TimeConverter/](https://mikechen04.github.io/Timezone-Converter/))
 
 --------------------------------
 
